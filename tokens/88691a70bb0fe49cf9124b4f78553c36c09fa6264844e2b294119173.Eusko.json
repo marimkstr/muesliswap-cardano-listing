@@ -1,0 +1,10 @@
+{
+    "policyId": "88691a70bb0fe49cf9124b4f78553c36c09fa6264844e2b294119173",
+    "name": "Eusko",
+    "symbol": "EUS",
+    "website": "https://euskalstakepool.win",
+    "description": "Euskal Token - Created by [EUSKL] EUSKAL STAKE POOL",
+    "totalSupply": 1000000000,
+    "amounts": [10, 50, 100, 500, 1000, 10000, 100000],
+    "decimalPlaces": 0
+} 
